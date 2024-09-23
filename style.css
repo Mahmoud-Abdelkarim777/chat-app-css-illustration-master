@@ -88,6 +88,7 @@ body {
 }
 .mobile-body{
     background-color: var(--app-background);
+    border-radius: 0  0 20px 20px;
     /* background-color: aqua; */
 }
 .mobile-body .txt_1 , .txt_2{
